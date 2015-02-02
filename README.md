@@ -4,7 +4,7 @@ A simple java cartridge using maven to start a singel process that can be used f
 
 To install this cartridge on OpenShift: 
 
-	rhc app create cmake https://raw.githubusercontent.com/luan-cestari/openshift-javajetty-cartridge/master/metadata/manifest.yml
+	rhc app create test https://cartreflect-claytondev.rhcloud.com/reflect?github=luan-cestari/openshift-javajetty-cartridge
 	
 This command will then clone the code to your local machine.  You can then update the code, git add, git commit, and git push.  
 The code will be compiled on the server and run!
