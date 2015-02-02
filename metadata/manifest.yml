@@ -3,7 +3,7 @@ Cartridge-Short-Name: CPPBOOST
 Display-Name: OpenShift Java Cartridge using Jetty & Maven
 Description: "A cartridge that provides the maven licycle to openshift using Jetty"
 Version: '1'
-Source-Url: https://github.com/luan-cestari/openshift-javajetty-cartridgegit
+Source-Url: https://github.com/luan-cestari/openshift-javajetty-cartridge.git
 License: GPLv3
 License-Url: http://www.gnu.org/licenses/gpl.html
 Cartridge-Version: '0.0.1'
